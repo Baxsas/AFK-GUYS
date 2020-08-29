@@ -1,0 +1,7 @@
+﻿  Quelle.cpp
+c:\users\baxsa\source\repos\afkguys2\afkguys2\quelle.cpp(45): warning C4244: "Argument": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+c:\users\baxsa\source\repos\afkguys2\afkguys2\quelle.cpp(77): warning C4244: "Argument": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+c:\users\baxsa\source\repos\afkguys2\afkguys2\quelle.cpp(81): warning C4244: "Argument": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+c:\users\baxsa\source\repos\afkguys2\afkguys2\quelle.cpp(91): warning C4244: "Argument": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+c:\users\baxsa\source\repos\afkguys2\afkguys2\quelle.cpp(100): warning C4244: "Argument": Konvertierung von "double" in "DWORD", möglicher Datenverlust
+  Afkguys2.vcxproj -> C:\Users\baxsa\source\repos\Afkguys2\Debug\Afkguys2.exe
